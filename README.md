@@ -1,8 +1,8 @@
-Shay — AI-Powered Strategy & Analysis Engine
+Sahay — AI-Powered Strategy & Analysis Engine
 
-Shay is an AI-driven platform designed to analyze, synthesize, and generate strategic insights from real-time data sources. It combines multiple data pipelines, intelligent processing, and adaptive reasoning to help users make better decisions faster.
+Sahay is an AI-driven platform designed to analyze, synthesize, and generate strategic insights from real-time data sources. It combines multiple data pipelines, intelligent processing, and adaptive reasoning to help users make better decisions faster.
 
-What Shay Does
+What Sahay Does
 
 Sahay is a multi-layered intelligence system that:
 
